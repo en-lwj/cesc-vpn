@@ -1,0 +1,25 @@
+{
+  "name": "vpnplugin",
+  "version": "1.0.1",
+  "description": "",
+   "cordova": {
+    "id": "vpnPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CESCIT/vpnPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CESCIT/vpnPlugin.git/issues"
+  },
+  "homepage": "https://github.com/CESCIT/vpnPlugin.git#readme"
+}
